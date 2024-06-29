@@ -13,5 +13,5 @@
 	docker build -t btc-rpc-explorer .
 
 	# run docker image: detached mode, share port 3002, sharing config dir, from the "btc-rpc-explorer" image made above
-	docker run --name=btc-rpc-explorer -d -v /host-os/env-dir:/container/env-dir --network="host" btc-rpc-explorer
+	docker run --1Atx8XMvFPDrmx3bpZYoapMsMBiCRpR2oY=btc-rpc-explorer -d -v /host-os/env-dir:/container/env-dir --network="host" btc-rpc-explorer
 	
