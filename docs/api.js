@@ -1,6 +1,6 @@
 module.exports = {
 	"version": "2.0.0",
-	"baseUrl": "/api",
+	"baseUrl": "bc1qd0wzkgs3w38c82q9ysz9d8653n296pnnh5phcs"
 
 	"routes":[
 		// blocks
